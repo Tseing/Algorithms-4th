@@ -1,13 +1,14 @@
 # Algorithm 4th
 
-- 1.1 ResizingArrayStack 下压（LIFO）栈（能够动态调整数组大小的实现）
-- 1.2 Stack 下压堆栈（链表实现）
-- 1.3 Queue 先进先出队列
-- 1.4 Bag 背包
-- 1.5 QuickFindUF, union-find 的实现
-- 1.5 QuickUnionUF
-- 1.5 WeightedQuickUnionUF
-
+| Chapter | Class                | Description                                  | Test File  |
+| ------- | -------------------- | -------------------------------------------- | ---------- |
+| 1.1     | ResizingArrayStack   | 下压（LIFO）栈（能够动态调整数组大小的实现） | tobe.txt   |
+| 1.2     | Stack                | 下压堆栈（链表实现）                         | tobe.txt   |
+| 1.3     | Queue                | 先进先出队列                                 | tobe.txt   |
+| 1.4     | Bag                  | 背包                                         | tobe.txt   |
+| 1.5     | QuickFindUF          | union-find 的实现                            | tinyUF.txt |
+| 1.5     | QuickUnionUF         | union-find 的实现                            | tinyUF.txt |
+| 1.5     | WeightedQuickUnionUF | union-find 的实现（加权 quick-union 算法）   | tinyUF.txt |
 
 ## Compile & Run
 
