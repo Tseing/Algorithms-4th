@@ -7,7 +7,7 @@
  *
  ******************************************************************************/
 
-// package edu.princeton.cs.algs4;
+package stdio;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

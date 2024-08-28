@@ -1,4 +1,3 @@
-package src;
 import java.util.Iterator;
 
 public class Bag<Item> implements Iterable<Item> {

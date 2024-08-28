@@ -1,5 +1,8 @@
 import java.util.Iterator;
 
+import stdio.StdIn;
+import stdio.StdOut;
+
 public class Stack<Item> implements Iterable<Item> {
     private Node first; // 栈顶（最近添加的元素）
     private int n; // 元素数量

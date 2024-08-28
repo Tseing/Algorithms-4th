@@ -1,5 +1,8 @@
 import java.util.Iterator;
 
+import stdio.StdIn;
+import stdio.StdOut;
+
 // 欲实现迭代必须继承 Iterable 的接口
 public class ResizingArrayStack<Item> implements Iterable<Item> {
     // 栈元素，注意泛型数组的创建方法

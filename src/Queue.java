@@ -1,5 +1,8 @@
 import java.util.Iterator;
 
+import stdio.StdIn;
+import stdio.StdOut;
+
 public class Queue<Item> implements Iterable<Item> {
     private Node first; // 指向最早添加的节点的链接
     private Node last; // 指向最近添加的节点的链接
